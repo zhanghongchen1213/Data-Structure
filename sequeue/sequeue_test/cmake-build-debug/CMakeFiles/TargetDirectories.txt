@@ -1,0 +1,3 @@
+/home/k/桌面/sequeue/sequeue_test/cmake-build-debug/CMakeFiles/sequeue_test.dir
+/home/k/桌面/sequeue/sequeue_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/k/桌面/sequeue/sequeue_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
