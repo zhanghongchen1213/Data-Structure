@@ -1,0 +1,3 @@
+/home/k/ds/liner/sqlist/sqlist_test/cmake-build-debug/CMakeFiles/sqlist_test.dir
+/home/k/ds/liner/sqlist/sqlist_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/k/ds/liner/sqlist/sqlist_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
