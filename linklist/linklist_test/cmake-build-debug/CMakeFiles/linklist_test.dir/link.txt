@@ -1,0 +1,1 @@
+/bin/gcc -g CMakeFiles/linklist_test.dir/main.c.o CMakeFiles/linklist_test.dir/linklist.c.o -o linklist_test 
