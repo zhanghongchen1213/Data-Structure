@@ -8,7 +8,9 @@ int test_merge(void);
 int test_find(void);
 
 int main() {
+    #if 1
     test_find();
+    #endif
 }
 
 linklist test_listinsert(void) {
