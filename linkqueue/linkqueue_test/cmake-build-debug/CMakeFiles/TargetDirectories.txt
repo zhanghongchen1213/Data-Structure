@@ -1,3 +1,0 @@
-/home/k/ds/liner/linkqueue/linkqueue_test/cmake-build-debug/CMakeFiles/linkqueue_test.dir
-/home/k/ds/liner/linkqueue/linkqueue_test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/k/ds/liner/linkqueue/linkqueue_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
