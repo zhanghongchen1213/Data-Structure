@@ -90,13 +90,12 @@ linkstack stack_free(linkstack s) {
         printf("栈不存在\n");
         return NULL;
     }
-    linkstack p = s;
-    while (p->next != NULL) {
-        linkstack q = p->next;  // 保存栈顶节点
-        printf("free:%d\n", q->data);
-        free(p);            // 释放栈顶节点
-        p = q;                  // 栈顶指针指向栈顶节点
+    linkstack q = s;
+    while (q != NULL) {
+        linkstack temp = q;          
+        printf("free:%d\n", temp->data);
+        q = q->next;              
+        free(temp);              
     }
-    free(p);
     return NULL;
 }
