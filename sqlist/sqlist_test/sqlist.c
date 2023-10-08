@@ -11,8 +11,7 @@
  * */
 sqlink list_create() {
     //首先需要分配内存空间
-    sqlink L;
-    L = (sqlink) malloc(sizeof(sqlist));
+    sqlink L=(sqlink) malloc(sizeof(sqlist));
     //分配内存空间,sizeof(sqlist)是结构体的大小
     //(sqlink)是强制类型转换,因为malloc返回的是void *类型
     if (L == NULL) {
