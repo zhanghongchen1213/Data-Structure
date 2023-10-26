@@ -1,0 +1,3 @@
+/home/k/Sort/sort/cmake-build-debug/CMakeFiles/sort.dir
+/home/k/Sort/sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/k/Sort/sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
